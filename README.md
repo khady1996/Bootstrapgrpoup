@@ -1,3 +1,3 @@
 # Bootstrapgrpoup
 
-Ce travail a été par : @khady, @david, @kevin & @cyril
+Ce travail a été effectué par : @khady, @david, @kevin & @cyril
